@@ -16,7 +16,26 @@
       "type": "Feature",
       "properties": {},
       "geometry": {
-        "type": "Polygon",
+
+
+        "type": "Point",
+        "coordinates": [
+          11.770734786987305,
+          55.74585927997327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e2119",
+        "marker-size": "medium",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+
+          "type": "Polygon",
         "coordinates": [
           [
             [
@@ -48,6 +67,54 @@
               54.44449176335762
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.894760131835936,
+            55.70844859735643
+          ],
+          [
+            11.883602142333984,
+            55.70960915707037
+          ],
+          [
+            11.878108978271484,
+            55.70960915707037
+          ],
+          [
+            11.867809295654297,
+            55.70873874051673
+          ],
+          [
+            11.862831115722656,
+            55.702935467932335
+          ],
+          [
+            11.863517761230467,
+            55.69751830256933
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#5aef4d",
+        "marker-size": "medium",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.871757507324219,
+          55.72527333942936
         ]
       }
     }
