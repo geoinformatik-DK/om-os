@@ -7,3 +7,6 @@
 
 ## Geoinformatik
 * **Forventninger :** Denne konto er en test konto for at vise en studerende
+
+
+## Liselotte
