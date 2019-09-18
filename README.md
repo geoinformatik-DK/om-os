@@ -7,6 +7,10 @@
 
 ## Geoinformatik
 * **Forventninger :** Denne konto er en test konto for at vise en studerende
+ 
+* **Hvad kan jeg:** Jeg kan bruges til at simulere en studerende
+=======
 
 
 ## Liselotte
+ master
